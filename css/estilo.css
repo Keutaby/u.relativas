@@ -1,0 +1,55 @@
+body{
+    background: #a3e6bf;
+}
+h1{
+    font-size: 1.05rem;
+}
+
+h2{
+    font-size: 1.25rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+h4{
+    font-size: 1.75rem;
+}
+
+h5{
+    font-size: 2rem;
+}
+
+h6{
+    font-size: 2.5rem;
+}
+
+#text-container{
+    font-size: 1.5em;
+}
+#free{
+    width: 20%;
+}
+#night{
+    width: 20%;
+}
+
+#uno{
+    color: rgb(40, 121, 76);
+    padding: 5px;
+    background: rgb(23, 230, 238);
+    width: 260px;
+}
+#dos{
+    color: #297a4e;
+    padding: 5px;
+    background: #17e6ee;
+    width: 260px;
+}
+#tres{
+    color: hsl(147, 49%, 32%);
+    padding: 5px;
+    background: hsl(182, 86%, 51%);
+    width: 260px;
+}
